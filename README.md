@@ -4,9 +4,7 @@
 > *My personal set of badges*
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-![MIT License](https://raw.githubusercontent.com/WieWaldi/badges/master/badges/licence_mit.svg)
 
-<br />
 ## Motivation
 Kind of childish but it looks nice having these badges placed in websites.
 By retaining these badges in a github repository I can easily include them
