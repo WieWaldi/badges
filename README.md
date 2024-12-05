@@ -6,7 +6,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Motivation
-Kind of childish but it looks nice having these badges placed in websites.
+Kind of childish but it looks nice having these badges placed in readme files.
 By retaining these badges in a github repository I can easily include them
 into my README.md files.
 
